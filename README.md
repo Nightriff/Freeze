@@ -1,5 +1,7 @@
 # Changes on this fork
-This fork has been modified from the original by renaming all `*.luau` files to `*.lua` in order to be compatible with other tools that don't recognize `*.luau` files yet.
+This fork has been modified from the original:
+- Renamed all `*.luau` files to `*.lua` in order to be compatible with other tools that don't recognize `*.luau` files yet
+- Added `toSet` index to `List` (the function existed, but was not indexed)
 
 # Installation
 
