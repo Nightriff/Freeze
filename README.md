@@ -1,3 +1,6 @@
+# Changes on this fork
+This fork has been modified from the original by renaming all `*.luau` files to `*.lua` in order to be compatible with other tools that don't recognize `*.luau` files yet.
+
 # Installation
 
 ## With Wally
